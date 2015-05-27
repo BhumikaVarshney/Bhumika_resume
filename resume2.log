@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.27)  27 MAY 2015 12:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.27)  27 MAY 2015 14:39
 entering extended mode
-**resume1.tex
-(resume1.tex
+**resume2.tex
+(resume2.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 68 languages loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -88,7 +88,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks15
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (resume1.aux)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (resume2.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
@@ -165,25 +165,26 @@ Package pdftex.def Info: bhumika.jpg used on input line 18.
 (pdftex.def)             Requested size: 52.69675pt x 74.77919pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./bhumika.jpg>] (resume1.
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./bhumika.jpg>] (resume2.
 aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 1652 strings out of 493698
- 22469 string characters out of 3144412
+ 1654 strings out of 493698
+ 22490 string characters out of 3144412
  86064 words of memory out of 3000000
- 5006 multiletter control sequences out of 15000+200000
- 4547 words of font info for 17 fonts, out of 3000000 for 9000
+ 5007 multiletter control sequences out of 15000+200000
+ 4855 words of font info for 18 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  25i,8n,31p,252b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on resume1.pdf (1 page, 83914 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on resume2.pdf (1 page, 94454 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
