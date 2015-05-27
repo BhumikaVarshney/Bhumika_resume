@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.27)  27 MAY 2015 15:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.27)  27 MAY 2015 15:26
 entering extended mode
 **resume.tex
 (resume.tex
@@ -331,7 +331,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--111
 
  []
 
-[2] (resume.aux)
+
+Underfull \hbox (badness 1102) in paragraph at lines 120--120
+[]\OT1/cmr/m/n/10 Participated in Pass-ing Out Pa-rade
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--147
+
+ []
+
+
+Overfull \hbox (7.54721pt too wide) in paragraph at lines 112--147
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--147
+
+ []
+
+[2] [3] (resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -339,7 +385,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  1675 strings out of 493698
  22813 string characters out of 3144412
- 94064 words of memory out of 3000000
+ 96064 words of memory out of 3000000
  5023 multiletter control sequences out of 15000+200000
  5560 words of font info for 20 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -351,9 +397,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (2 pages, 162373 bytes).
+Output written on resume.pdf (3 pages, 165390 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
