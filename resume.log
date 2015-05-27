@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.27)  27 MAY 2015 15:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.27)  27 MAY 2015 15:34
 entering extended mode
 **resume.tex
 (resume.tex
@@ -343,37 +343,37 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--147
+Underfull \hbox (badness 10000) in paragraph at lines 112--153
 
  []
 
 
-Overfull \hbox (7.54721pt too wide) in paragraph at lines 112--147
+Overfull \hbox (7.54721pt too wide) in paragraph at lines 112--153
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--147
+Underfull \hbox (badness 10000) in paragraph at lines 112--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--147
+Underfull \hbox (badness 10000) in paragraph at lines 112--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--147
+Underfull \hbox (badness 10000) in paragraph at lines 112--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--147
+Underfull \hbox (badness 10000) in paragraph at lines 112--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--147
+Underfull \hbox (badness 10000) in paragraph at lines 112--153
 
  []
 
@@ -397,7 +397,7 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (3 pages, 165390 bytes).
+Output written on resume.pdf (3 pages, 165505 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
